@@ -1,0 +1,1 @@
+export default function App() { return <h1>태양광 자동배치 웹앱</h1>; }
